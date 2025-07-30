@@ -28,7 +28,9 @@ JavaMulticastStock/
 │       ├── MulticastServer.java
 │       ├── MulticastServerThread.java
 ├── stocks.txt
-├── README.mSetup Instructions
+├── README.mSetup 
+
+Instructions
 
 Clone the repository:
 git clone https://github.com/JustisDutt/Multicast-Stock-Ticker-Java.git
